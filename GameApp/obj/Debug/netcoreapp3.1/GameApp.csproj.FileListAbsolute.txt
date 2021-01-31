@@ -1,0 +1,13 @@
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\bin\Debug\netcoreapp3.1\GameApp.exe
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\bin\Debug\netcoreapp3.1\GameApp.deps.json
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\bin\Debug\netcoreapp3.1\GameApp.runtimeconfig.json
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\bin\Debug\netcoreapp3.1\GameApp.runtimeconfig.dev.json
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\bin\Debug\netcoreapp3.1\GameApp.dll
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\bin\Debug\netcoreapp3.1\GameApp.pdb
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\obj\Debug\netcoreapp3.1\GameApp.csprojAssemblyReference.cache
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\obj\Debug\netcoreapp3.1\GameApp.AssemblyInfoInputs.cache
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\obj\Debug\netcoreapp3.1\GameApp.AssemblyInfo.cs
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\obj\Debug\netcoreapp3.1\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\obj\Debug\netcoreapp3.1\GameApp.dll
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\obj\Debug\netcoreapp3.1\GameApp.pdb
+C:\Users\kulas\Desktop\YazilimKampi\GameApp\obj\Debug\netcoreapp3.1\GameApp.genruntimeconfig.cache
